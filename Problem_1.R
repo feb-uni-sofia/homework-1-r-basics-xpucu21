@@ -8,7 +8,6 @@ x-y
 #The two vectors are with different size. The second vector "y" is smaller and it becomes (1,4,1,4)
 #d)
 s<-c(x,y)
-s
 #e)
 rep(s,10)
 ss<-rep(s,10)
