@@ -3,7 +3,7 @@
 xmin<-c(23,20.5,28.2,20.3,22.4,17.2,18.2)
 xmax<-c(25,22.8,31.2,27.3,28.4,20.2,24.1)
 #b)
-difff<-xmax-xmin
+difff<-xmax-xmin 
 #c)
 avgMin<-mean(xmin)
 avgMax<-mean(xmax)
