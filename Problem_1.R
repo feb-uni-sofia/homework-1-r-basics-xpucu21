@@ -1,3 +1,5 @@
+## NOTE: readability: leave some blank linkes between the code to make it more readable
+
 #Problem 1
 #a)
 x<-c(4,1,1,4)
